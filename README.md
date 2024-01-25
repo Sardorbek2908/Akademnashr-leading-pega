@@ -1,1 +1,1 @@
-##  A web site that sells Python books
+## Bu web siteda Python dasturlash kitobi sotiladi
